@@ -11,6 +11,7 @@ Desarrollar una aplicación en Python que permita gestionar información sobre p
 ### Estructura del Repositorio
 - Una carpeta con el archivo PDF con la parte teórica del trabajo práctico, un archivo .py conteniendo el algoritmo y base.csv requerido por el algoritmo.
 - Un video explicativo (Link: https://youtu.be/yK_mSuClVac )
+- Un drive con los contenidos del proyecto (Link: https://drive.google.com/drive/u/1/folders/1d80vcesB6X9sTzAcudGnZB1I9bQ1wxkO)
 - Este README
 
 ### Funcionalidad del algoritmo creado
