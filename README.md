@@ -1,6 +1,6 @@
 # TPI-Programacion1
 
-####Autores
+#### Autores
 
 Camilo Angeleri - Ceangeleri8@gmail.com
 Facundo Bocquet - facubdorbocquet@gmail.com
@@ -10,8 +10,9 @@ Desarrollar una aplicación en Python que permita gestionar información sobre p
 
 ### Estructura del Repositorio
 - Una carpeta con el archivo PDF con la parte teórica del trabajo práctico, un archivo .py conteniendo el algoritmo y base.csv requerido por el algoritmo.
-- Un video explicativo (Link: )
+- Un video explicativo (Link: https://youtu.be/yK_mSuClVac )
 - Este README
 
 ### Funcionalidad del algoritmo creado
 El sistema permite agregar, modificar, buscar, filtrar y ordenar países, así como obtener estadísticas generales a partir de los registros cargados.
+Debe de abrirse la carpeta con VSCode (o equivalente) para que el .py pueda encontrar base.csv.
